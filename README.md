@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @Mr-CodeStar currently in BCA II Sem.
-- 👀 I’m interested in python real projects 
+- 👋 Hi, I’m Dev Barma (@Mr-CodeStar) currently in BCA II Sem.
+- 👀 I’m interested in python projects 
 - 🌱 I’m currently learning data analysis with python
 - 😀 Know Java,C.
 - 📫 How to reach me ...by gmail
