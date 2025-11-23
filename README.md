@@ -2,7 +2,7 @@
 - 👀 I’m interested in python projects 
 - 🌱 I’m currently learning Machine Learning
 - 😀 Know Java,C.
-- 📫 How to reach me ...by gmail
+- 📫 How to reach me ...by [gmail](mailto:barmadevdev@gmail.com)
 
 
 <!---
