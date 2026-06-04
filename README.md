@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Dev Barma (@Mr-CodeStar) currently in BCA III Year.
+- 👋 Hi, I’m Dev Barma (@Mr-CodeStar) currently in MCA I Year.
 - 👀 I’m interested in python projects 
 - 🌱 I’m currently learning Machine Learning
-- 😀 Know Java,C.
+- 😀 Know JavaScript, C.
 - 📫 How to reach me ...by [gmail](mailto:barmadevdev@gmail.com)
 
 
